@@ -1,0 +1,34 @@
+{
+    "max.dfile": {
+        "spouse": "anna.dfile",
+        "children": ["lukas.dfile", "sophie.dfile", "tim.dfile"]
+    },
+    "anna.dfile": {
+        "spouse": "max.dfile",
+        "children": ["lukas.dfile", "sophie.dfile", "tim.dfile"]
+    },
+    "lukas.dfile": {
+        "parents": ["max.dfile", "anna.dfile"]
+    },
+    "sophie.dfile": {
+        "parents": ["max.dfile", "anna.dfile"]
+    },
+    "tim.dfile": {
+        "parents": ["max.dfile", "anna.dfile"]
+    },
+    "karl.dfile": {
+        "spouse": "maria.dfile",
+        "children": ["emma.dfile", "paul.dfile"]
+    },
+    "maria.dfile": {
+        "spouse": "karl.dfile",
+        "children": ["emma.dfile", "paul.dfile"]
+    },
+    "emma.dfile": {
+        "parents": ["karl.dfile", "maria.dfile"]
+    },
+    "paul.dfile": {
+        "parents": ["karl.dfile", "maria.dfile"]
+    },
+    "olaf.dfile": {}
+}

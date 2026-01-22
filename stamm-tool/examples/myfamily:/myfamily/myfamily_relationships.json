@@ -1,0 +1,13 @@
+{
+    "max.dfile": {
+        "spouse": "anna.dfile",
+        "children": ["lukas.dfile"]
+    },
+    "anna.dfile": {
+        "spouse": "max.dfile",
+        "children": ["lukas.dfile"]
+    },
+    "lukas.dfile": {
+        "parents": ["max.dfile", "anna.dfile"]
+    }
+}

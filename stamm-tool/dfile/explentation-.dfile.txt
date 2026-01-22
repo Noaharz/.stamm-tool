@@ -1,0 +1,13 @@
+.dfile is an format for digital profiles. It looks like this:
+    !=! (start)
+    NAME: Max Mustermann
+    GEBURT: 1980-01-01
+    STERBEDATUM: 
+    GENDER: M
+    GEBURTSORT: Hamburg
+    VERSION: 1
+    NOTIZ: examplenote
+    FOTO: 
+    !0! (end)
+    
+Check the official .dfile repo on GitHub for better informations.

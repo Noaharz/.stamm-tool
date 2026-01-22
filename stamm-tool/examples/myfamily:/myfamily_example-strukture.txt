@@ -1,0 +1,8 @@
+myfamily.stamm
+│
+├── profiles/
+│   ├── person1.dfile
+│   ├── person2.dfile
+│   └── ...
+│
+└── relationships.json
