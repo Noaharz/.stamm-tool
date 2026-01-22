@@ -1,5 +1,3 @@
-Ah, got it 😅 — you want a **simple, clear explanation of what a `.stamm` file is**, without all the extra steps. Let’s break it down clearly.
-
 ---
 
 # What is a `.stamm` file?
@@ -93,7 +91,3 @@ Stores **connections between people**:
 * Viewer reads `.stamm` and shows a **visual family tree**
 
 ---
-
-If you want, I can make a **diagram showing `.stamm` structure visually**, so it’s immediately clear how files relate inside the archive.
-
-Do you want me to do that?
